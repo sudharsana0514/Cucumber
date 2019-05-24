@@ -5,7 +5,7 @@ formatter.feature({
   "keyword": "Feature",
   "tags": [
     {
-      "name": "@smpke"
+      "name": "@smoke"
     },
     {
       "name": "@us1"
@@ -21,7 +21,7 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@smpke"
+      "name": "@smoke"
     },
     {
       "name": "@us1"

@@ -1,5 +1,5 @@
 #Author: your.email@your.domain.com
-@smpke @us1 @AddCustomerPlan
+@smoke @us1 @AddCustomerPlan
 Feature:  to test add customer functionality
   
 @sprint1
